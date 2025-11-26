@@ -24,13 +24,14 @@ const Wizard = React.memo(function Wizard(props) {
 
     <group {...props} dispose={null}>
   
-      <group position={[Math.PI / -2.4, -2.3, -0.015]}>
-        <group scale={0.091}>
-          <group rotation={[-Math.PI / 0.8, -0.01, -1.6]}>
-            <group rotation={[Math.PI / 2.9, 4.3, -0.8]} scale={0.0017}>
-              <group rotation={[Math.PI, 0, 0]} scale={110.41}>
-                
 
+                
+      <group position={[Math.PI / -1.4, -1.8, -0.002]}>
+        <group scale={0.099}>
+          <group rotation={[-Math.PI / 0.40, 0.60, 0.10]}>
+            <group rotation={[Math.PI / -1.7, 2.72, 0.6]} scale={0.0022}>
+              <group rotation={[Math.PI, 0, 0]} scale={110.41}>
+               
 
 
 
